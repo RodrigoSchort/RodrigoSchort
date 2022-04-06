@@ -10,9 +10,9 @@
 
 ## Estatísticas
 
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdrick&theme=blue-green">
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave)
 
 ## Social
 
