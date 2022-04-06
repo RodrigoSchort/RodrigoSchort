@@ -1,6 +1,6 @@
-# Bem vindo(a) ao meu Github! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30" height="30"> Meu nome é Rodrigo e sou Front-end developer
+# Bem vindo(a)! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30" height="30">
 
-## Tecnologias
+## Front End Developer
 
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30" height="30">
 
