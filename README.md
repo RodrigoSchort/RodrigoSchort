@@ -1,4 +1,4 @@
-### Bem vindo(a) ao meu Github! 👋 Eu sou Rodrigo! 
+### Bem vindo(a) ao meu Github! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="50" height="50"> Eu sou Rodrigo! 
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/motorcycle_1f3cd-fe0f.png" width="200" height="200">
 
