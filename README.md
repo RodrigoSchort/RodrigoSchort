@@ -10,7 +10,7 @@
 
 ## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave" width="480"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdrick&theme=blue-green" width="250">
+<img src="https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave" width="490"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdrick&theme=blue-green" width="250">
 
 
 ## Social
