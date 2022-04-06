@@ -1,4 +1,4 @@
-### Bem vindo(a) ao meu Github! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30" height="30"> Meu nome é Rodrigo e sou Front-end developer <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/motorcycle_1f3cd-fe0f.png" width="50" height="50">
+### Bem vindo(a) ao meu Github! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30" height="30"> Meu nome é Rodrigo e sou Front-end developer <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/motorcycle_1f3cd-fe0f.png" width="100" height="100">
 
 ## Tecnologias
 
