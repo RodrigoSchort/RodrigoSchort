@@ -1,4 +1,4 @@
-# Bem vindo(a)! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30" height="30">
+# Welcome! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width="30" height="30">
 
 ## Front End Developer
 
@@ -6,7 +6,7 @@
 
 
 
-## Estatísticas
+## Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave" width="515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdrick&theme=blue-green" width="250">
 
