@@ -2,9 +2,10 @@
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/motorcycle_1f3cd-fe0f.png" width="200" height="200">
 
-##Tecnologias
+## Tecnologias
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30" height="30">
 
 ## Estatísticas
 
