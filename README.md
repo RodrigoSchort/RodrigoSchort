@@ -2,7 +2,15 @@
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/motorcycle_1f3cd-fe0f.png" width="200" height="200">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+##Tecnologias
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="30" height="30">
+
+## Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdrick&layout=compact)
+
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave)
 
 ## Social
 
@@ -12,8 +20,4 @@
 
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/download.php)
 
-## Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdrick&layout=compact)
-
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave)
