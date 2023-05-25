@@ -5,12 +5,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30" height="30">
 
 
-
-## Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cyberdrick&show_icons=true&theme=synthwave" width="515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdrick&theme=blue-green" width="250">
-
-
 ## Social
 
 [![Blog](https://img.shields.io/website?label=netlifywebsite&style=for-the-badge&url=https://rodrigo-sanchez-ortega-45df42.netlify.app/)](https://rodrigo-sanchez-ortega-45df42.netlify.app) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_cyb35/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sanchez-ortega-145b4820a/)![Discord](https://img.shields.io/badge/RodrigoShash1499-7289DA?style=for-the-badge&logo=discord&logoColor=white)
