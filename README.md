@@ -2,7 +2,7 @@
 
 ## Front End Developer
 
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30" height="30"><img src="https://github.com/Cyberdrick/Cyberdrick/assets/80337758/28664af9-6d0d-40c1-b2b8-84fb94ce9153">
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="30" height="30"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30" height="30"><img src="https://github.com/Cyberdrick/Cyberdrick/assets/80337758/28664af9-6d0d-40c1-b2b8-84fb94ce9153" width="30" height="30">
 
 
 
@@ -13,5 +13,3 @@
 ## Distro
 
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/download.php)
-
-
